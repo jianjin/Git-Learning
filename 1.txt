@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ddversion 1
+=======
+version 1
+>>>>>>> add
 version 2
 version 3
 version 4
